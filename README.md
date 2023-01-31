@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## 사용해보기
 
-https://brilliant-phoenix-de6b12.netlify.app/
+https://brilliant-phoenix-de6b12.netlify.app
 
 ## Available Scripts
 
