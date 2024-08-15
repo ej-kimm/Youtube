@@ -1,3 +1,3 @@
 ## 사용해보기
 
-https://brilliant-phoenix-de6b12.netlify.app
+https://snazzy-profiterole-092c35.netlify.app
