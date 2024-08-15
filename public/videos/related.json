@@ -1,181 +1,861 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "UQ6oqnvNZpUv6UaBwBuEIRWilYY",
+  "etag": "es0I9EEZhtfJtPCQGqTwYIFQ_SM",
+  "nextPageToken": "CBkQAA",
+  "regionCode": "US",
+  "pageInfo": {
+    "totalResults": 651347,
+    "resultsPerPage": 25
+  },
   "items": [
     {
       "kind": "youtube#searchResult",
-      "etag": "3O5JXA-MLLDMdpfoaJAOPuGVbsE",
+      "etag": "a4NXhfBS2Z4S_FNYpoQ2C40EqiQ",
       "id": {
         "kind": "youtube#video",
-        "videoId": "arj7oStGLkU"
+        "videoId": "3DqoJroKcuo"
       },
       "snippet": {
-        "publishedAt": "2016-03-15T20:13:33Z",
-        "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
-        "title": "Tim Urban: Inside the mind of a master procrastinator | TED",
-        "description": "Tim Urban knows that procrastination doesn't make sense, but he's never been able to shake his habit of waiting until the last minute to get things done. In this hilarious and insightful talk, Urban takes us on a journey through YouTube binges, Wikipedia rabbit holes and bouts of staring out the window -- and encourages us to think harder about what we're really procrastinating on, before we run out of time.\n\nFor more from Tim Urban, visit Wait But Why: http://www.waitbutwhy.com/\n\nVisit http://TED.com to get our entire library of TED Talks, transcripts, translations, personalized talk recommendations and more.\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less). Look for talks on Technology, Entertainment and Design -- plus science, business, global issues, the arts and more. You're welcome to link to or embed these videos, forward them to others and share these ideas with people you know. \n\nFollow TED on Twitter: http://twitter.com/TEDTalks\nLike TED on Facebook: http://facebook.com/TED\nSubscribe to our channel: http://youtube.com/TED\n\nTED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy (https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy). For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com",
+        "publishedAt": "2024-08-14T21:00:02Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "No need for two laptops, but thank you?",
+        "description": "What's the craziest fix you've ever heard from your PM? Subscribe to Google for Developers → https://goo.gle/developers.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/arj7oStGLkU/default.jpg",
+            "url": "https://i.ytimg.com/vi/3DqoJroKcuo/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/arj7oStGLkU/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/3DqoJroKcuo/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/arj7oStGLkU/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/3DqoJroKcuo/hqdefault.jpg",
             "width": 480,
             "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/arj7oStGLkU/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/arj7oStGLkU/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
           }
         },
-        "channelTitle": "TED",
+        "channelTitle": "Google for Developers",
         "liveBroadcastContent": "none",
-        "publishTime": "2016-03-15T20:13:33Z"
+        "publishTime": "2024-08-14T21:00:02Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "iuXeoSQ7vl3wO2BAtUhDSINgUbc",
+      "etag": "iMs6_iLc8VVhkjvSFAU3HZKop_k",
       "id": {
         "kind": "youtube#video",
-        "videoId": "eIho2S0ZahI"
+        "videoId": "8vtiMctMd5w"
       },
       "snippet": {
-        "publishedAt": "2014-06-27T14:18:00Z",
-        "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
-        "title": "How to speak so that people want to listen | Julian Treasure",
-        "description": "Visit http://TED.com to get our entire library of TED Talks, transcripts, translations, personalized talk recommendations and more.\n\nHave you ever felt like you're talking, but nobody is listening? Here's Julian Treasure to help you fix that. As the sound expert demonstrates some useful vocal exercises and shares tips on how to speak with empathy, he offers his vision for a sonorous world of listening and understanding.\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less). Look for talks on Technology, Entertainment and Design -- plus science, business, global issues, the arts and more. You're welcome to link to or embed these videos, forward them to others and share these ideas with people you know. \n\nFollow TED on Twitter: http://twitter.com/TEDTalks\nLike TED on Facebook: http://facebook.com/TED\nSubscribe to our channel: http://youtube.com/TED\n\nTED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy (https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy). For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com",
+        "publishedAt": "2024-08-14T13:00:11Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "AI-assisted coding search results to help you Google it better",
+        "description": "See how Google Search makes finding answers to your coding questions with AI-assisted results. Speaker: Shrestha Basu Mallick ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/eIho2S0ZahI/default.jpg",
+            "url": "https://i.ytimg.com/vi/8vtiMctMd5w/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/eIho2S0ZahI/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/8vtiMctMd5w/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/eIho2S0ZahI/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/8vtiMctMd5w/hqdefault.jpg",
             "width": 480,
             "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/eIho2S0ZahI/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/eIho2S0ZahI/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
           }
         },
-        "channelTitle": "TED",
+        "channelTitle": "Google for Developers",
         "liveBroadcastContent": "none",
-        "publishTime": "2014-06-27T14:18:00Z"
+        "publishTime": "2024-08-14T13:00:11Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "jD08y-NoucUj6DcYqMqKPyYcJm0",
+      "etag": "BupuLbo9vd51yLpYQkVl6__ft48",
       "id": {
         "kind": "youtube#video",
-        "videoId": "RKK7wGAYP6k"
+        "videoId": "ldd311e8QNk"
       },
       "snippet": {
-        "publishedAt": "2018-04-05T20:17:43Z",
-        "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
-        "title": "How language shapes the way we think | Lera Boroditsky",
-        "description": "There are about 7,000 languages spoken around the world -- and they all have different sounds, vocabularies and structures. But do they shape the way we think? Cognitive scientist Lera Boroditsky shares examples of language -- from an Aboriginal community in Australia that uses cardinal directions instead of left and right to the multiple words for blue in Russian -- that suggest the answer is a resounding yes. \"The beauty of linguistic diversity is that it reveals to us just how ingenious and how flexible the human mind is,\" Boroditsky says. \"Human minds have invented not one cognitive universe, but 7,000.\"\n\nCheck out more TED Talks: http://www.ted.com\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less). Look for talks on Technology, Entertainment and Design -- plus science, business, global issues, the arts and more.\n\nFollow TED on Twitter: http://www.twitter.com/TEDTalks\nLike TED on Facebook: https://www.facebook.com/TED\n\nSubscribe to our channel: https://www.youtube.com/TED",
+        "publishedAt": "2024-08-13T21:00:34Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Code from 10 years ago? 🤨",
+        "description": "Facing the code you wrote a decade ago... feels like deciphering an ancient map. 🗺️ Subscribe to Google for Developers ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/RKK7wGAYP6k/default.jpg",
+            "url": "https://i.ytimg.com/vi/ldd311e8QNk/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/RKK7wGAYP6k/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ldd311e8QNk/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/RKK7wGAYP6k/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ldd311e8QNk/hqdefault.jpg",
             "width": 480,
             "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/RKK7wGAYP6k/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/RKK7wGAYP6k/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
           }
         },
-        "channelTitle": "TED",
+        "channelTitle": "Google for Developers",
         "liveBroadcastContent": "none",
-        "publishTime": "2018-04-05T20:17:43Z"
+        "publishTime": "2024-08-13T21:00:34Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "-XzEGV5Th1BKTT1p18AoMko7V18",
+      "etag": "O3MAPaacWNm9TclO2xcD_9ozpUs",
       "id": {
         "kind": "youtube#video",
-        "videoId": "VRJzvJ5XPQI"
+        "videoId": "43Xo2HBcR_o"
       },
       "snippet": {
-        "publishedAt": "2021-10-15T19:29:36Z",
-        "channelId": "UCftwRNsjfRo08xYE31tkiyw",
-        "title": "Body Language Expert Explains How to Show Confidence | WIRED",
-        "description": "Former FBI agent and body language expert Joe Navarro explains how we can project confidence through our body language. Joe takes a look at various celebrities and politicians and demonstrates the things that they do that can help them appear more confident. \r\n\r\nCheck out Joe's book \"Be Exceptional\"\r\nhttps://www.amazon.com/Be-Exceptional-Master-Traits-Extraordinary-ebook/dp/B08K93BLQP/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=\r\n\r\nhttps://www.jnforensics.com/ \r\n\r\nBooks By Joe Navarro: https://www.jnforensics.com/books\r\nJoe Navarro Body Language Academy: https://jnbodylanguageacademy.com\n\nStill haven’t subscribed to WIRED on YouTube? ►► http://wrd.cm/15fP7B7 \r\nListen to the Get WIRED podcast  ►► https://link.chtbl.com/wired-ytc-desc\r\nWant more WIRED? Get the magazine ►► https://subscribe.wired.com/subscribe/splits/wired/WIR_YouTube?source=EDT_WIR_YouTube_0_Video_Description_ZZ\r\n\r\nFollow WIRED:\r\n\r\nInstagram ►►https://instagram.com/wired\r\nTwitter ►►http://www.twitter.com/wired\r\nFacebook ►►https://www.facebook.com/wired\r\n\r\nGet more incredible stories on science and tech with our daily newsletter: https://wrd.cm/DailyYT\r\n\r\nAlso, check out the free WIRED channel on Roku, Apple TV, Amazon Fire TV, and Android TV. \r\n\r\nABOUT WIRED\r\nWIRED is where tomorrow is realized. Through thought-provoking stories and videos, WIRED explores the future of business, innovation, and culture.",
+        "publishedAt": "2024-08-13T13:00:03Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "LLMs on the browser",
+        "description": "On-device large language models not only reduce latency and enhance privacy, you can also save money by not needing to run ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/VRJzvJ5XPQI/default.jpg",
+            "url": "https://i.ytimg.com/vi/43Xo2HBcR_o/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/VRJzvJ5XPQI/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/43Xo2HBcR_o/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/VRJzvJ5XPQI/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/43Xo2HBcR_o/hqdefault.jpg",
             "width": 480,
             "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/VRJzvJ5XPQI/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/VRJzvJ5XPQI/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
           }
         },
-        "channelTitle": "WIRED",
+        "channelTitle": "Google for Developers",
         "liveBroadcastContent": "none",
-        "publishTime": "2021-10-15T19:29:36Z"
+        "publishTime": "2024-08-13T13:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Z-aArHQa6tUG5JI68SJxN2eBp08",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "m4a1f_hR7s0"
+      },
+      "snippet": {
+        "publishedAt": "2024-08-12T13:00:48Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Busting 3 myths about quantum computers",
+        "description": "What's real and what's exaggerated when it comes to quantum computing? The Google Quantum AI team is here to help you ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/m4a1f_hR7s0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/m4a1f_hR7s0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/m4a1f_hR7s0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-08-12T13:00:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XjndpRPiNQF0zt9hQtcjuvgEshU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kPzov5wYXAI"
+      },
+      "snippet": {
+        "publishedAt": "2024-08-08T13:00:33Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Save cats using Javascript, play Purrfect Code",
+        "description": "Designed for Desktop, Purrfect Code is a Flutter-based puzzle game where you write JavaScript to guide a robot in pushing cats ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kPzov5wYXAI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kPzov5wYXAI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kPzov5wYXAI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-08-08T13:00:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "V_f173DCmB5qDIrmolARaYjhMvM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hleLlcHwQLM"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-10T22:30:48Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Google I/O 2023 Developer Keynote in 5 minutes",
+        "description": "Discover what's new from Google, including top takeaways and highlights announced at Google I/O 2023. From deep investments ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hleLlcHwQLM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hleLlcHwQLM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hleLlcHwQLM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-10T22:30:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Zi3cI-X1pYV0I7HUEGZp2wET97A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "r8T0SnwHRNI"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-10T20:43:48Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Developer keynote (Google I/O &#39;23)",
+        "description": "Learn about the latest updates to our developer products and platforms at Google I/O 2023. To watch this keynote interpreted in ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/r8T0SnwHRNI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/r8T0SnwHRNI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/r8T0SnwHRNI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-10T20:43:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RTF7M4nJOx4SbxVWv09mLM4J6fU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "iR2O2GPbB0E"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-05T23:00:18Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "What are Large Language Models (LLMs)?",
+        "description": "Learn about Large Language Models (LLMs), a powerful neural network that enables computers to process and generate ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iR2O2GPbB0E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iR2O2GPbB0E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iR2O2GPbB0E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-05T23:00:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "oV-TNvHCQdJjqKbTpArunP54efs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Vo4GmHxZzZo"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-05T18:00:35Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Welcome to the 2022 Code Jam World Finals!",
+        "description": "On August 5, 2022, top programmers from around the world will compete virtually for the championship title and grand prize of ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Vo4GmHxZzZo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Vo4GmHxZzZo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Vo4GmHxZzZo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-05T18:00:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LvSUZTOuYdyWEvXlFj-cJdPN5v0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PHpveYiS0OQ"
+      },
+      "snippet": {
+        "publishedAt": "2022-07-28T17:27:58Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "2022 Solution Challenge Demo Day",
+        "description": "Join us for the 2022 Solution Challenge Demo Day hosted by Google Developer Student Clubs! Over 2500 students and 830 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PHpveYiS0OQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PHpveYiS0OQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PHpveYiS0OQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-07-28T17:27:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ie6owYbMFaKXgJPKqi-XI0wSVtM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "htG27DW5ju4"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-11T21:46:53Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Google I/O 2022 Developer Keynote in 8 minutes",
+        "description": "What are the top takeaways from Google I/O 2022 for Google Developers? Get a quick overview of announcements for ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/htG27DW5ju4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/htG27DW5ju4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/htG27DW5ju4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-11T21:46:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mpr29qVuzwBGNpEgKExVM8zEelE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2gTCghy-dU4"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-11T20:47:42Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Google Wallet API tutorial for Google Developers | Google I/O 2022",
+        "description": "In this Google Wallet API tutorial, Google Developers can explore Google Wallet for Android with a focus on quick and consistent ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2gTCghy-dU4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2gTCghy-dU4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2gTCghy-dU4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-11T20:47:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2-_lddi3OOs2IPPCaDe-3OJu9jU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ww7RItTgO48"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-11T20:25:51Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Developer Keynote (Google I/O &#39;22) — American Sign Language",
+        "description": "0:00 Introduction 2:53 Augmented Reality 5:46 Android 24:12 Web 30:14 Flutter 35:22 Firebase 41:59 Google Cloud 46:27 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ww7RItTgO48/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ww7RItTgO48/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ww7RItTgO48/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-11T20:25:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8EZOj_jRqjv2yjR5IfAtZZjNxgQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qBkyU1TJKDg"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-11T20:24:46Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Developer Keynote (Google I/O &#39;22)",
+        "description": "In this Developer Keynote from Google I/O 2022, Google Developers can learn about our developer products and platforms.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qBkyU1TJKDg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qBkyU1TJKDg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qBkyU1TJKDg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-11T20:24:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "woJhFUQ397yw1cJfA_b33qOJJjc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KjfMPxS2on8"
+      },
+      "snippet": {
+        "publishedAt": "2022-04-19T15:00:21Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Machine Learning basics",
+        "description": "When you think of Machine Learning, what do you think of? Learn what Machine Learning is, how computers find patterns, and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KjfMPxS2on8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KjfMPxS2on8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KjfMPxS2on8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-04-19T15:00:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "o3ailzPQz2oHejySDb3JiAOAJEw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XJ476O86hbU"
+      },
+      "snippet": {
+        "publishedAt": "2022-04-18T21:00:12Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "AI and the Gartner Hype Cycle",
+        "description": "Welcome to AI for Anyone! We'll take a journey to explore Artificial Intelligence, along with Machine Learning and Deep Learning.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XJ476O86hbU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XJ476O86hbU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XJ476O86hbU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-04-18T21:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UYNXFsZOJZS4OODYF_6DW1Xp19o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_2yYPQxOTL4"
+      },
+      "snippet": {
+        "publishedAt": "2022-03-15T19:03:11Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Top 7 Stadia announcements from Google for Games Developer Summit",
+        "description": "Learn how the Stadia team is helping developers bring their games to players faster than ever as we recap the top Stadia ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_2yYPQxOTL4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_2yYPQxOTL4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_2yYPQxOTL4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-03-15T19:03:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dt2W6mR8284qpuU-akgpnPiKInY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1oc75GQFKvg"
+      },
+      "snippet": {
+        "publishedAt": "2022-03-15T15:58:19Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Google for Games Developer Summit 2022 Keynote",
+        "description": "Learn about new solutions for game devs to make it easier to build high quality games and reach growing audiences around the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1oc75GQFKvg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1oc75GQFKvg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1oc75GQFKvg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-03-15T15:58:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dWO-Fgf8wSbDkj3-Z0nTjbDLMeI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wZIQycr0F4c"
+      },
+      "snippet": {
+        "publishedAt": "2022-02-18T03:00:12Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Coding Practice with Kick Start 2022 – Session #1 problem walkthroughs",
+        "description": "Join Google engineers for a walk through of each problem from the first session of Coding Practice with Kick Start. They provide ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wZIQycr0F4c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wZIQycr0F4c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wZIQycr0F4c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-02-18T03:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4kSHfw4UkBhkVwj0ueJdiZT56nQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZbnI4E3F_l4"
+      },
+      "snippet": {
+        "publishedAt": "2022-01-04T11:00:13Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Google’s Coding Competitions - Check out challenges for all skill levels",
+        "description": "Google's Coding Competitions are back! Kick Start, Hash Code, and Code Jam return for another exciting season - try your hand ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZbnI4E3F_l4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZbnI4E3F_l4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZbnI4E3F_l4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-01-04T11:00:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bDZzTOxWQTN3bTFd4sWsqW8slyk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FmhnbT7-RTc"
+      },
+      "snippet": {
+        "publishedAt": "2021-08-26T17:25:34Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "2021 Solution Challenge Demo Day",
+        "description": "Join us for the 2021 Solution Challenge Demo Day hosted by Google Developer Student Clubs. The top 10 finalist teams will ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FmhnbT7-RTc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FmhnbT7-RTc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FmhnbT7-RTc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-08-26T17:25:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "392pHcdDBu8l0oQXflMelKp7v0g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Jqf52nThBt0"
+      },
+      "snippet": {
+        "publishedAt": "2021-08-11T17:00:21Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Join a Google Developer Student Club",
+        "description": "Google Developer Student Clubs are university-based clubs where students learn Google technology and use their skills to build ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Jqf52nThBt0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Jqf52nThBt0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Jqf52nThBt0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-08-11T17:00:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3hoBF9feKeud7pgLd7bm4DpkT8c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fGGO7Fpy-Gk"
+      },
+      "snippet": {
+        "publishedAt": "2021-07-13T17:23:10Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "GameSnacks: Google&#39;s new HTML5 gaming platform",
+        "description": "Mobile gaming is huge, and mobile HTML5 gaming is growing. Learn more about how GameSnacks helped HTML5 game ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fGGO7Fpy-Gk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fGGO7Fpy-Gk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fGGO7Fpy-Gk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-07-13T17:23:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qDUAbD0diBUy7Vb4CqflK48vmes",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "I0oNK-XHp0I"
+      },
+      "snippet": {
+        "publishedAt": "2021-07-13T15:58:09Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Stadia Keynote",
+        "description": "Hear the latest and greatest from one of Stadia's business development leads. You'll learn about new offerings for all Stadia ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/I0oNK-XHp0I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/I0oNK-XHp0I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/I0oNK-XHp0I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-07-13T15:58:09Z"
       }
     }
   ]
